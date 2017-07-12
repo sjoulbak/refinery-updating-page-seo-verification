@@ -1,24 +1,11 @@
-# README
+# Refinery updating Page SEO verification
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is created to confirm that [3302](https://github.com/refinery/refinerycms/pull/3302) really is an issue. There's also a test added to confirm thats the issue is real.
 
-Things you may want to cover:
+## Run it for yourself
 
-* Ruby version
+* `rails s`
 
-* System dependencies
+## Run the test
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* `rails t`
